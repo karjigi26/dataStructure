@@ -1,1 +1,30 @@
-print("HI")
+Data Structure - 1. Data structure is a storage that is used to store and organize data
+                 2. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+    Types - Linear and Non- Linear
+
+1. Linear DS: 
+    The elements are arranged in sequence one after the other
+    easy to implement
+    if complexity of the program increases, it's not the best choice to use.
+    Types:
+
+        1. Array DS:
+            same data Type
+            arranged in continuous meory location
+            can be accessed by using memory index ex. 0,1,2,3....
+        
+        2. Stack DS:
+            stored in LIFO principle. -- Last In First Out
+            ex: pile of plates
+
+        3. Queue DS:
+            unlike stack, stored in FIFO principle -- First In First Out
+            ex: queue of people in the ticket counter.
+
+        4. Linked List DS:
+            data elements are connected through a series of nodes and each node contains the data items and address to the next node.
+            it will stop once it encounters null
+            starting node is termed as head
+
+2. Non Linear DS:
+    
