@@ -26,5 +26,31 @@ Data Structure - 1. Data structure is a storage that is used to store and organi
             it will stop once it encounters null
             starting node is termed as head
 
-2. Non Linear DS:
-    
+2. Non Linear DS:   
+    unlike linear DS, these are not in any sequence
+    arranged in a hierarchical manner where one element connected to one or more elements.
+    Types:
+
+        1. Graph DS: 
+            Each node --> vertex, each one is connected to other vertices through edges.
+            popular graph based DS:
+                i.   spanning tree and minimum spanning tree
+                ii.  strongly connected components
+                iii. adjancency matrix
+                iv.  adjancency List
+        
+        2. Tree DS:
+            Like graph, collection of vertices and edges.
+            But, there can be only one edge between two vertices.
+            popular tree based DS:
+                i.   Binary Tree
+                ii.  Binary Search Tree
+                iii. AVL Tree
+                iv.  B-Tree
+                v.   B+Tree
+                vi.  Red-Black Tree
+
+Linear VS Non-linear DS: https://www.programiz.com/dsa/data-structure-types#google_vignette
+
+Advantages of DS:
+    helps us to write memory and time efficient code.
