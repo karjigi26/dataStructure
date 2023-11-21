@@ -1,0 +1,48 @@
+Why Learn DSA?
+
+   boost programming skills / career.
+   optimizing algorithms.
+
+Algorithms:
+
+    steps to solve a problem, written in english.
+    if written in a programming language then it is called as code. 
+
+Data structures used to hold data
+Algorithms used to solve the program using the data.
+
+
+Use of DSA to make code scalable:
+
+    should focus on time and memory which is very imp.
+    Time is precious:
+
+        Time to run code = no. of instructions * time to execute each instructions.
+        No. of instuctions depends on the code we write
+        Time taken to execute each depends on machine and compiler.
+
+    More on Scalability:
+
+        scale + ability --> the quality of an alogithm/system to handle the problem of larger size.
+        So evey time we have to check that our solution is also effiecient if input is increased to n.
+        linearly scalable algorithms -- linear growth in time with the linear growth in the size of the problem.
+        constant time algorithms -- didn't require the use of any more time to solve a problem of larger size.
+
+    Memory is expensive:
+
+        write algorithm, which use the less memory. 
+            ex: storing only date of birth but not their age, which can be derived from the date of birth itself.
+
+ex: 1. Age of Group Problem - Binary Search Algorithm
+    2. Rubik's Cube Problem - Dijkstra's Algorithm- graph data structure
+    3. DNA Problem - KMP Algorithm
+
+However, it's important to note that this is not the only way to make a system scalable. 
+For example, a technique known as distributed computing allows independent parts of a program to run to multiple machines together making it even more scalable.
+
+
+
+
+
+
+
