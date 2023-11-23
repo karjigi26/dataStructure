@@ -1,0 +1,30 @@
+Asymptotic Analysis: Big-O Notation and More 
+
+1. The efficiency of an algoithm depends on amount of time, storage and other resources 
+    Which is measured using Asymptotic notations.
+
+2. The study of change in performance of the algorithm with the change in the order of the input size is defined as asymptotic analysis.
+
+3. asymptotic notations - mathematical notaitons - describe the running time of an alogithm.
+
+4. there are always best case(minimum time) and worst case (maximum time) and average time.
+
+5. 3 asymptotic notations
+    Big-O notations
+    Omega notation
+    Thetha notation
+
+6. Big-O Notation:
+    represents the upper bound of the running time of an algorithm.
+    worst-case complexity of an algorithm.
+    Since it gives the worst case running time- it is widely used one
+
+7. Omega Notaion:
+    represents the lower bound of the running time of an algorithm.
+    best case complexity of an algorithm.
+
+8. Thetha Notation(0 - notation):
+    encloses the fun. from above and below.
+    represents both the upper and lower bound of rumning time of an algorithm.
+    used for analyzing the average case complexity of an alogirthm.
+    
