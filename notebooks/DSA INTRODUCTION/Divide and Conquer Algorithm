@@ -1,0 +1,31 @@
+Divide and Conquer Algorithm:
+    Stratergy of solving a large problem by
+        1. breaking the problem into smaller sub-problems
+        2. solving the sub-problems, and
+        3. combining them to get the desired output.
+
+Recursio is used here
+
+steps: 1. Divide - diving the problem into sub-problem.
+       2. Conquer - solve the smaller sub-problem recursively. if the subproblem is small enough, then solve it directly.
+       3. Combine - combine the solution to solve the actual problem.
+
+
+Time Complexity of the divide and conquer alogithm is calculated using the master theorem.
+
+Divide and Conquer Vs Dynamic approach:
+    1. In Divide and Conquer, the result of sub-problem is not stored unlike dynamic approach.
+    2. When the same sub-problem is not solved multiple times, then use divide and conquer
+    3. If the result of a subproblem is to be used multiple times in the future, then use dynamic approach.
+
+Advantages of Divide and Conquer Algorithm:
+    1. This approach decreases the complexity of the problem.
+    2. This approach is suitable for multiprocessing systems.
+    3. It makes efficient use of memory caches.
+
+Ex. for Divide and Conquer Application:
+    1. Binary Search
+    2. Merge Sort
+    3. Quick Sort
+    4. Strassen's Matrix multiplication
+    5. Karatsuba Algorithm
